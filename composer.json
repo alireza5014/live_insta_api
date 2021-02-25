@@ -53,7 +53,7 @@
         }
     },
     "require": {
-      "mvc-php/app-framework": "dev-master",
+      "alireza5014/live_insta_api": "dev-master",
         "php": ">=5.6",
         "lazyjsonmapper/lazyjsonmapper": "^1.6.1",
         "guzzlehttp/guzzle": "^6.2|^7.1",
